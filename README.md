@@ -15,5 +15,5 @@ I'm Max, full stack developer. I ❤️ CODE
 **Skills:**  
 
 
-<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 
