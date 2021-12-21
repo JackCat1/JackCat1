@@ -5,10 +5,12 @@
 I'm Max, full stack developer. I ❤️ CODE 
 
 <br />
-🔭 I’m currently working as a Software Developer in Kostanay, Kazahstan
-🌱 I’m currently learning Python
-💬 Ask me about anything related to Javascript/React/PHP
-😄 Pronouns: He / Him
+<ul>
+  <li>🔭 I’m currently working as a Software Developer in Kostanay, Kazahstan</li>
+  <li>🌱 I’m currently learning Python</li>
+  <li>💬 Ask me about Javascript/React/PHP</li>
+  <li>😄 Pronouns: He / Him</li>
+ </ul>
   
 **Skills:**  
 
